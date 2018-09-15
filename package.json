@@ -148,7 +148,7 @@
     "@angular/platform-browser-dynamic": "^5.2.5",
     "@angular/platform-server": "^5.2.5",
     "@angular/router": "^5.2.5",
-    "angularx-qrcode": "^1.0.1",
+    "angularx-qrcode": "^1.2.3",
     "bluebird": "^3.4.7",
     "buffered-spawn": "^3.3.2",
     "cli-progress": "^1.7.0",
